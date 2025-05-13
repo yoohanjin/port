@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: '포트폴리오',
   description: '웹 개발자 포트폴리오',
   other: {
-    'naver-site-verification': 'b368d0a75ce98898bb20a7f58657bf2b706ccc92'
+    'naver-site-verification': '6d5452c82b017bf456dfa8eb23534ff0983a1d6f'
   }
 }
 
