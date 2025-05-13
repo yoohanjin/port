@@ -7,7 +7,7 @@ export default function Home(): React.JSX.Element {
       {/* Hero Section */}
       <section className="h-screen flex items-center justify-center bg-gradient-to-r from-green-500 to-emerald-600 text-white">
         <div className="text-center">
-          <h1 className="text-5xl font-bold mb-4">안녕하세요!</h1>
+          <h1 className="text-5xl font-bold mb-4">안녕하세요</h1>
           <p className="text-2xl">웹 개발자 포트폴리오에 오신 것을 환영합니다</p>
         </div>
       </section>
